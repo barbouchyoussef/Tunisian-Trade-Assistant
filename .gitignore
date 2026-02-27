@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+*/data/
+.env
+*.db
+news_sentiment_analysis/exports
+*/__pycache__/
+*/tb_logs/*
+RL/models
+news_sentiment_analysis/src/models
+
+merged.csv
+ry.ipynb
+logs/
+*.pkl
+*.bin
+*.pt
+*.safetensors
+*.onnx
+data/*
+models
+
+Forecasting/mlruns
