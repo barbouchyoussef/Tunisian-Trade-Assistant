@@ -73,7 +73,6 @@ Design an integrated **Intelligent Trading Assistant** combining:
 - Reinforcement Learning (optional) or rule-based logic (minimum viable).
 
 ## User Interface (Dashboard)
-**Required Pages**
 1. **Market Overview**
    - Indices (TUNINDEX), top gainers/losers, global sentiment, alerts.
 2. **Specific Stock Analysis**
@@ -83,20 +82,6 @@ Design an integrated **Intelligent Trading Assistant** combining:
 4. **Surveillance & Alerts**
    - Real-time anomaly feed, filters, history.
 
-## Final Deliverables (Hackathon)
-### Technical Deliverables
-- Complete source code (GitHub/GitLab or ZIP).
-- README with installation instructions.
-- `requirements.txt` (Python) or `package.json` (Node).
-- Functional application (local or hosted) with URL and credentials.
-- Technical documentation: Architecture, model choices, metrics, limitations.
-- Jupyter Notebooks (recommended): EDA, training, visualizations.
-
-### Presentation Deliverables
-- Pitch Deck (10–15 min).
-- Demo Video (3–5 min).
-- Complete User Journey.
-- Use Case: "I want to invest 5,000 TND, what do you recommend?"
 
 ## Usage Scenarios (User Stories)
 ### 1) Beginner Investor
@@ -110,4 +95,4 @@ An inspector receives an alert regarding a suspicious variation and triggers an 
 
 ---
 
-**Project:** Intelligent Trading Assistant for BVMT — IHEC‑CODELAB 2.0
+**Project:** Intelligent Trading Assistant for BVMT
