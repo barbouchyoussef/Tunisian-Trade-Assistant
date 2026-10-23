@@ -1,10 +1,20 @@
-## Intelligent Trading Assistant (BVMT) 
+# Intelligent Trading Assistant (BVMT) 
 
 
 ## Context
 The Tunis Stock Exchange (Bourse des Valeurs Mobilières de Tunis - BVMT) continues its modernization within a complex and volatile financial environment. Tunisian investors require intelligent, secure tools that comply with the regulatory framework (CMF). The market presents specific challenges: variable liquidity, multilingual information sources (French/Arabic), and the need for market manipulation monitoring.
 
 ![TuniTrAIde Platform](assets/image.png)
+
+## Demo Video
+
+A short demonstration of the application features:
+
+[![Demo Video](assets/demo/demo_thumbnail.png)](https://drive.google.com/file/d/1GxraFICIdIV8jYPsC7WAsGViTXNNuuiL/view?usp=sharing)
+
+*Click the image to download/play the demo video.*
+
+---
 
 ## Problem Statement
 Design an integrated **Intelligent Trading Assistant** combining:
