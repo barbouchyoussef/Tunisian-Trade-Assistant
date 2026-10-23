@@ -1,4 +1,4 @@
- Intelligent Trading Assistant (BVMT) 
+## Intelligent Trading Assistant (BVMT) 
 
 
 ## Context
