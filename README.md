@@ -1,4 +1,4 @@
-# IHEC-CODELAB 2.0 — Intelligent Trading Assistant (BVMT) 
+ Intelligent Trading Assistant (BVMT) 
 
 
 ## Context
