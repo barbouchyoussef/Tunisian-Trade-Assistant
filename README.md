@@ -10,7 +10,7 @@ The Tunis Stock Exchange (Bourse des Valeurs Mobilières de Tunis - BVMT) contin
 
 A short demonstration of the application features:
 
-[![Demo Video](assets/demo/demo_thumbnail.png)](https://drive.google.com/file/d/1GxraFICIdIV8jYPsC7WAsGViTXNNuuiL/view?usp=sharing)
+[![Demo Video]](https://drive.google.com/file/d/1GxraFICIdIV8jYPsC7WAsGViTXNNuuiL/view?usp=sharing)
 
 *Click the image to download/play the demo video.*
 
